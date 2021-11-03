@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: This is the Title of the site
+description: Description of the site
+show_downloads: true
+linkedin: "https://linkedin.com/in/planetoftheweb"
