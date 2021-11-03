@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my Jekyll Site
 
 You can use the [editor on GitHub](https://github.com/planetoftheweb/publishing-jekyll/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
