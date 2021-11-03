@@ -1,3 +1,7 @@
+# Collectibles
+
+[Home](index.md) | [Cast](Cast.md)
+
 The Stargazers are members of the _Intergalactic Alliance_ paving the way for peace and benevolence among all species. They are known for their enthusiasm for science, for their love of fun, and their dedication to education.
 
 Stargazers are fluent in **JavaScript**, so once you connect to their network, simply type in a message into their console.
@@ -293,3 +297,9 @@ Violette holds a doctorate degree in Planetary Behaviorism from Fouraluy Univers
 | **Job Title**                  | Planetary Behaviorist                                                  |
 | **Dream Job Title**            | Principle Disco Dancer for the Amethystopia Ballet                     |
 | **Singing Voice**              | mezzo-soprano                                                          |
+
+---
+
+## Disclaimer
+
+Stargazers Aliens is a fictitious company created by <a href="https://www.linkedin.com/">LinkedIn Corporation</a>, or its affiliates, solely for the creation and development of <a class="text-secondary" href="https://www.linkedin.com/learning/">educational training</a> materials. Any resemblance to real products or services is purely coincidental. Information provided about the products or services is also fictitious and should not be construed as representative of actual products or services on the market in a similar product or service category.
